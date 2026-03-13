@@ -1,7 +1,7 @@
 # 💫 About Me:
 I focus on the practical application of neural architectures in entertainment and automation. My portfolio centers on building end-to-end intelligent pipelines—from an AI-driven Game Logic Engine 🎮 to generative systems for media synthesis 📚.<br><br>I am currently deep-diving into model optimization and local LLM deployment to create smarter, more responsive user environments. I treat my projects as functional experiments to validate my learning and push the boundaries of autonomous software.
 
-<div> <img src="404 error page with cat.gif" alt="404" width="800"/></div>
+<div> <img src="404 error page with cat.gif" alt="404" width="300"/></div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noop-nishant-400984322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1704noopnishant2006@gmail.com) 
